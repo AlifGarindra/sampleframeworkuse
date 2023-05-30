@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-SampleFramworkUse-SampleFramworkUseUITests/Pods-SampleFramworkUse-SampleFramworkUseUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KMMIOSFrameworkAlifg/KMMIOSFrameworkAlifg.framework
+${PODS_ROOT}/KMMSharedAlifG/shared.framework

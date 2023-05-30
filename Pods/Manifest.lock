@@ -1,0 +1,23 @@
+PODS:
+  - KMMIOSFrameworkAlifg (1.0.3):
+    - KMMSharedAlifG (= 1.0.2)
+  - KMMSharedAlifG (1.0.2)
+
+DEPENDENCIES:
+  - KMMIOSFrameworkAlifg (from `../../kampkit-for-ios/KaMPKit/ios-framework/ios-framework`)
+
+SPEC REPOS:
+  trunk:
+    - KMMSharedAlifG
+
+EXTERNAL SOURCES:
+  KMMIOSFrameworkAlifg:
+    :path: "../../kampkit-for-ios/KaMPKit/ios-framework/ios-framework"
+
+SPEC CHECKSUMS:
+  KMMIOSFrameworkAlifg: 69a986e4a4ea928d6a2a41b4acad58540ff5075a
+  KMMSharedAlifG: 922f8b3ff9e52506e52dfa14b4392f9ac202311e
+
+PODFILE CHECKSUM: aa254a5d709740667c816bada48631f8a89fe403
+
+COCOAPODS: 1.12.1

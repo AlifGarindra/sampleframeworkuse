@@ -1,0 +1,6 @@
+framework module KMMIOSFrameworkAlifg {
+  umbrella header "KMMIOSFrameworkAlifg-umbrella.h"
+
+  export *
+  module * { export * }
+}
